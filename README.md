@@ -1,10 +1,13 @@
 # 🧙‍♂️ Nicholas · Apprentice of Code
 
 > A frontend-focused fullstack student on a grand quest to build magical & clean user-friendly web apps.  
-> Looking for LIA (internship) and junior roles - help me build my future :)  
+> Looking for LIA (internship) and junior roles – help me build my future :)
+> 
 > Check out my Portfolio here → https://kaigan-portfolio.vercel.app/
-
-
+> 
+> [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicholas-sjostrand/)
+>
+> 
 ---
 
 ## 🌍 Origin & Journey  
@@ -17,18 +20,11 @@
 ## 💭 Currently Learning  
 Right now, I'm leveling up in:
 
-- **React** – building dynamic UIs with components, props & state  
-- **TypeScript** – adding strong typing to JavaScript  
-- **Next.js** – exploring modern React patterns & SSR  
+- [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](#)
 
-## 🧠 Skills & Knowledge
-- **Languages:** JavaScript, HTML, CSS, Java, SQL (MySQL & SQLite)
-- **Frameworks & Libraries:** Node.js, Express.js, Tailwind CSS, Spring Boot, Spring Security
-- **Tools & Platforms:** Git, GitHub, VS Code, IntelliJ, Figma, Canva
+- [![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](#)
 
-## 🗺️ Exploring Backend
-- **Node.js & MySQL** – building REST APIs & databases  
-- **Java & Spring Boot** – exploring enterprise backend development
+- [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](#)
 
 ---
 
