@@ -49,5 +49,5 @@ When I’m not coding, I recharge with:
 ---
 
 ## 📬 Reach me here!
-📧 [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
-📔 https://nicholas-sjostrand.netlify.app/  
+- https://kaigan-portfolio.vercel.app/  
+- [kaigan.codes@gmail.com](mailto:kaigan.codes@gmail.com)  
