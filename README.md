@@ -3,7 +3,7 @@
 > A frontend-focused fullstack student on a grand quest to build magical & clean user-friendly web apps.  
 > Looking for LIA (internship) and junior roles – help me build my future :)
 > 
-> Check out my Portfolio here → https://kaigan-portfolio.vercel.app/
+> 🎒 My portfolio → https://kaigan-portfolio.vercel.app/
 > 
 > [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/nicholas-sjostrand/)
 >
